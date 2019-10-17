@@ -1,3 +1,3 @@
-# Suzanne in A-Frame
+# Car in A-Frame
 
-Student: Voornaam Familienaam
+Student: Cedric Vanhaegenberg
